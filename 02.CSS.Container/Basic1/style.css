@@ -1,0 +1,23 @@
+#one {
+	background-image: url('cards.png'); 
+	background-repeat: no-repeat;
+	width: 140px; height: 190px;
+	display: inline-block;
+	background-position: -145px -200px;
+}
+#two {
+	background-image: url('cards.png'); 
+	background-repeat: no-repeat;
+	width: 140px; height: 190px;
+	display: inline-block;
+	background-position: -430px -597px;
+	margin-left: -50px;
+}
+#three {
+	background-image: url('cards.png'); 
+	background-repeat: no-repeat;
+	width: 140px; height: 190px;
+	display: inline-block;
+	background-position: -285px -1394px;
+	margin-left: -50px;
+}

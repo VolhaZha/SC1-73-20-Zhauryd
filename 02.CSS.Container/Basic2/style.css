@@ -1,0 +1,14 @@
+div {
+	background-color: black; 
+	color: #008000;
+	width: 400px;
+	max-height: 5em;
+	overflow: auto;
+}
+.main {
+	list-style: upper-roman;
+}
+.encl {
+	width: 350px;
+	list-style: lower-roman;
+}
